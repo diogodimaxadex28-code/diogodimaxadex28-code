@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ```text
 ███╗   ███╗ █████╗  ██████╗██╗  ██╗ █████╗ ██████╗  ██████╗
@@ -28,7 +28,7 @@ web applications and custom solutions.
 
 ## `01 // LANGUAGES`
 
-<div align="center">
+
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,lua,js,ts,html,css,php" />
 
@@ -37,7 +37,7 @@ web applications and custom solutions.
 
 ## `02 // TECHNOLOGY MATRIX`
 
-<div align="center">
+
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,tailwind,bootstrap,mysql,postgres,mongodb,linux,docker" />
 
@@ -233,7 +233,7 @@ JAVASCRIPT
 
 # `09 // COMPLETE STACK`
 
-<div align="center">
+
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,lua,js,ts,html,css,php,git,github,vscode,nodejs,react,tailwind,bootstrap,mysql,postgres,mongodb,linux,docker" />
 
