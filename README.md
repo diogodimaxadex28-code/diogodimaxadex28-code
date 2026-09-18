@@ -1,12 +1,8 @@
-<div align="center">
-
 # Machado
-
-
 
 ---
 
-# 💻 Linguagens de Programação
+## 💻 Linguagens de Programação
 
 <div align="center">
 
@@ -14,10 +10,9 @@
 
 </div>
 
-
 ---
 
-# 🔹 Technologies & Tools
+## 🔹 Technologies & Tools
 
 <div align="center">
 
@@ -27,9 +22,7 @@
 
 ---
 
----
-
-### 🔹 Áreas de Desenvolvimento
+## 🔹 Áreas de Desenvolvimento
 
 - 🎮 **FiveM Development**
 - 🌐 **Web Development**
@@ -51,12 +44,12 @@ scripts, sistemas e projetos personalizados para servidores e comunidades.
 
 > 💰 **+60.000 R$ faturados através de desenvolvimento relacionado com FiveM**
 
-Experiência com:
+### Experiência com:
 
-- Lua scripting
-- FiveM resources
+- Lua Scripting
+- FiveM Resources
 - ESX / QBCore
-- Client & Server scripts
+- Client & Server Scripts
 - NUI
 - JavaScript
 - HTML / CSS
@@ -75,14 +68,13 @@ Experiência com:
 
 ## AIM CUP
 
-Maior servidor de campeonatos da Europa do FiveM**.
+**Um dos maiores servidores de campeonatos da Europa no FiveM.**
 
 ### Tecnologias
 
 `Lua` `JavaScript` `HTML` `CSS` `MySQL`
 
 ---
-
 
 # 🌐 Web Development
 
@@ -155,3 +147,46 @@ JavaScript.
 - Custom Commands
 - Database Integration
 - Webhooks
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,lua,js,ts,html,css,php,git,github,vscode,nodejs,react,tailwind,bootstrap,mysql,postgres,mongodb,linux,docker" />
+
+</div>
+
+---
+
+# 📫 Contact
+
+Se tens um projeto, ideia ou colaboração em mente, podes entrar em contacto comigo.
+
+<div align="left">
+
+- 💬 Discord: `Machado`
+- 💻 GitHub: `SEU_USERNAME`
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building systems. Creating solutions. Writing code.
+
+</div>
