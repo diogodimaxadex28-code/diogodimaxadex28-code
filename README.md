@@ -7,9 +7,7 @@
 ██║╚██╔╝██║██╔══██║██║     ██╔══██║██╔══██║██║  ██║██║   ██║
 ██║ ╚═╝ ██║██║  ██║╚██████╗██║  ██║██║  ██║██████╔╝╚██████╔╝
 ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝
-```
 
-```text
 ┌──────────────────────────────────────────────────────────────┐
 │  SYSTEM STATUS                                               │
 │                                                              │
@@ -21,16 +19,10 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-### `> whoami`
+### `> ABOUT ME`
 
 **Machado** — Developer focused on building systems, scripts,
 web applications and custom solutions.
-
-```text
-ROLE        :: Full-Stack / Software Developer
-SPECIALTY   :: FiveM • Web • Bots • Backend • Automation
-STATUS      :: Building something new...
-```
 
 ---
 
@@ -42,19 +34,6 @@ STATUS      :: Building something new...
 
 </div>
 
-```text
-C++       ████████████████████
-C         ██████████████████
-Python    ███████████████████
-Lua       ████████████████████
-JavaScript████████████████████
-TypeScript███████████████████
-HTML      ████████████████████
-CSS       ████████████████████
-PHP       ██████████████████
-```
-
----
 
 ## `02 // TECHNOLOGY MATRIX`
 
