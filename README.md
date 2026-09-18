@@ -15,41 +15,6 @@
 
 </div>
 
-### 🔹 C++
-
-Desenvolvimento de software e programação de sistemas utilizando C++.
-
-### 🔹 C
-
-Programação de baixo nível e desenvolvimento de aplicações.
-
-### 🔹 Python
-
-Automação, bots, APIs, scripts e desenvolvimento de aplicações.
-
-### 🔹 Lua
-
-Principalmente utilizado em **FiveM Development** e scripting.
-
-### 🔹 JavaScript
-
-Desenvolvimento web, Node.js, Discord Bots e sistemas interativos.
-
-### 🔹 TypeScript
-
-Desenvolvimento de aplicações JavaScript com tipagem estática.
-
-### 🔹 HTML
-
-Estruturação de websites e interfaces NUI.
-
-### 🔹 CSS
-
-Estilização, layouts, animações e interfaces responsivas.
-
-### 🔹 PHP
-
-Desenvolvimento backend e aplicações web.
 
 ---
 
