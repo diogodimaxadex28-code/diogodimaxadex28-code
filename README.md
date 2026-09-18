@@ -1,89 +1,313 @@
-# ascii-profile-kit
+<div align="center">
 
-Build a clean, monochrome **animated GitHub profile**: an ASCII portrait that
-types itself in like a terminal, a neofetch-style info panel, and a live
-contribution graph that refreshes daily on its own — no paid services, no
-tokens, no broken images.
+```text
+███╗   ███╗ █████╗  ██████╗██╗  ██╗ █████╗ ██████╗  ██████╗
+████╗ ████║██╔══██╗██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗
+██╔████╔██║███████║██║     ███████║███████║██║  ██║██║   ██║
+██║╚██╔╝██║██╔══██║██║     ██╔══██║██╔══██║██║  ██║██║   ██║
+██║ ╚═╝ ██║██║  ██║╚██████╗██║  ██║██║  ██║██████╔╝╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝
+```
 
-This is my personal build (**Mithun Gowda B**), wired end to end. Fork it, swap
-in your photo and details, and ship your own.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  SYSTEM STATUS                                               │
+│                                                              │
+│  > developer detected                                       │
+│  > initializing environment...                              │
+│  > loading skills...                                        │
+│  > loading projects...                                      │
+│  > status: ONLINE                                            │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### `> whoami`
+
+**Machado** — Developer focused on building systems, scripts,
+web applications and custom solutions.
+
+```text
+ROLE        :: Full-Stack / Software Developer
+SPECIALTY   :: FiveM • Web • Bots • Backend • Automation
+STATUS      :: Building something new...
+```
+
+---
+
+## `01 // LANGUAGES`
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,lua,js,ts,html,css,php" />
 
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+</div>
+
+```text
+C++       ████████████████████
+C         ██████████████████
+Python    ███████████████████
+Lua       ████████████████████
+JavaScript████████████████████
+TypeScript███████████████████
+HTML      ████████████████████
+CSS       ████████████████████
+PHP       ██████████████████
+```
+
+---
+
+## `02 // TECHNOLOGY MATRIX`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,tailwind,bootstrap,mysql,postgres,mongodb,linux,docker" />
+
+</div>
+
+```text
+VERSION CONTROL     → Git / GitHub
+EDITORS             → VS Code
+RUNTIME             → Node.js
+FRONTEND            → React / Tailwind / Bootstrap
+DATABASES           → MySQL / PostgreSQL / MongoDB
+ENVIRONMENT         → Linux / Docker
+```
+
+---
+
+## `03 // DEVELOPMENT DOMAINS`
+
+```text
+┌─ GAME DEVELOPMENT
+│  └── FiveM Development
+│
+├─ WEB
+│  ├── Frontend
+│  ├── Backend
+│  └── Full-Stack Systems
+│
+├─ AUTOMATION
+│  ├── Scripting
+│  └── System Automation
+│
+├─ COMMUNICATION
+│  └── Discord Bot Development
+│
+├─ INFRASTRUCTURE
+│  ├── Database Integration
+│  └── API Integration
+│
+└─ SOFTWARE
+   └── Custom Software Development
+```
+
+---
+
+# `04 // FIVE M DEVELOPMENT`
+
+```text
+██████████████████████████████████████████████████  SPECIALIZATION
+```
+
+Ao longo do meu percurso em **FiveM Development**, desenvolvi
+scripts, sistemas e soluções personalizadas para servidores
+e comunidades.
+
+### `REVENUE TRACKER`
+
+> **+60.000 R$ faturados através de desenvolvimento relacionado com FiveM**
+
+### `STACK`
+
+```text
+Lua              ████████████████████
+FiveM Resources   ████████████████████
+ESX               ██████████████████
+QBCore            ██████████████████
+JavaScript        ███████████████████
+HTML / CSS        ████████████████████
+MySQL             ████████████████████
+APIs              ███████████████████
+NUI               ████████████████████
+```
+
+### `SYSTEMS BUILT`
+
+* Client & Server Scripts
+* NUI Interfaces
+* Custom Systems
+* Administration Systems
+* Economy Systems
+* Database Integration
+* API Integration
+* Script Optimization
+* Server Resources
+* Custom Interfaces
+
+---
+
+# `05 // FEATURED PROJECT`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                         AIM CUP                              ║
+║                                                              ║
+║        Competitive FiveM Infrastructure / Tournament         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**AIM CUP** é um dos maiores servidores de campeonatos da Europa
+no ecossistema FiveM.
+
+### `TECHNOLOGY`
+
+`Lua` · `JavaScript` · `HTML` · `CSS` · `MySQL`
+
+```text
+SYSTEM
+ ├── Game Logic
+ ├── Custom Resources
+ ├── Web Interfaces
+ ├── Database Systems
+ └── Competition Infrastructure
+```
+
+---
+
+# `06 // WEB ENGINE`
+
+```text
+              FRONTEND
+                 │
+        ┌────────┼────────┐
+        ▼        ▼        ▼
+      React     HTML      CSS
+        │        │        │
+        └────────┼────────┘
+                 ▼
+              BACKEND
+                 │
+       ┌─────────┼─────────┐
+       ▼         ▼         ▼
+     Node.js    PHP      Python
+                 │
+                 ▼
+               APIs
+                 │
+                 ▼
+             DATABASE
+```
+
+### Frontend
+
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React`
+`Bootstrap` · `Tailwind CSS`
+
+### Backend
+
+`PHP` · `Node.js` · `Python` · `JavaScript` · `REST APIs`
+
+### Databases
+
+`MySQL` · `SQLite` · `PostgreSQL` · `MongoDB`
+
+### Web Systems
+
+```text
+REST APIs
+JSON
+AJAX
+Authentication
+Database Integration
+API Integration
+Responsive Design
+Backend Systems
+```
+
+---
+
+# `07 // DISCORD AUTOMATION`
+
+Desenvolvimento de **Discord Bots** utilizando principalmente
+Python e JavaScript.
+
+```text
+PYTHON
+ ├── discord.py
+ ├── APIs
+ ├── Automation
+ ├── Moderation
+ ├── Ticket Systems
+ ├── Economy Systems
+ ├── Database Integration
+ ├── Webhooks
+ └── Slash Commands
+```
+
+```text
+JAVASCRIPT
+ ├── Discord.js
+ ├── Node.js
+ ├── REST APIs
+ ├── Slash Commands
+ ├── Moderation
+ ├── Ticket Systems
+ ├── Custom Commands
+ ├── Database Integration
+ └── Webhooks
+```
+
+---
+
+# `08 // GITHUB TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
 
 </div>
 
 ---
 
-## How it works
+# `09 // COMPLETE STACK`
 
-GitHub strips `<script>` from READMEs, but it DOES run **SMIL and CSS animations
-inside an SVG** loaded as an `<img>`. So all the motion lives inside self-hosted
-SVGs in the repo — nothing ever 404s or gets rate-limited.
+<div align="center">
 
-Two things make the portrait look *clean* instead of noisy:
-1. **Monochrome** — one light-gray color, never per-character rainbow.
-2. **Background removed + local contrast (CLAHE)** — so the subject sits on blank
-   space and the face has real highlights/shadows instead of being a dark blob.
+<img src="https://skillicons.dev/icons?i=cpp,c,python,lua,js,ts,html,css,php,git,github,vscode,nodejs,react,tailwind,bootstrap,mysql,postgres,mongodb,linux,docker" />
 
-## What's inside
+</div>
 
-```
-PROMPT.md                    a paste-into-Claude-Code prompt that drives it all
-profile-README-template.md   the README that goes on your profile
-requirements-local.txt       deps for the one-time local image prep
-scripts/
-  prep_photo.py              rembg background removal + CLAHE contrast (run once)
-  make_ascii_svg.py          photo  -> typing monochrome ASCII portrait
-  make_info_card.py          your experience/stack -> neofetch info panel  <- EDIT
-  fetch_contributions.py     scrapes your real contributions (no auth)
-  render_heatmap_svg.py      contributions -> animated box graph
-  requirements.txt           deps the daily workflow needs
-.github/workflows/
-  update-profile-art.yml     refreshes the graph every day, automatically
+---
+
+# `10 // CONTACT`
+
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│  Got a project?                          │
+│  Have an idea?                           │
+│  Need a custom system?                   │
+│                                          │
+│  → Discord : Machado                     │
+│  → GitHub  : SEU_USERNAME                │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
-## Quickstart
+---
 
-```bash
-# 0. deps
-pip install -r requirements-local.txt        # local prep
-pip install -r scripts/requirements.txt      # scraper
+<div align="center">
 
-# 1. portrait  (STATIC=1 shows the final frame; drop it for the animated file)
-python scripts/prep_photo.py path/to/your-photo.jpg source-prepped.png
-python scripts/make_ascii_svg.py              # -> avi-ascii.svg
-
-# 2. info panel  (edit the ROWS + HOST at the top of the script first)
-python scripts/make_info_card.py              # -> info-card.svg
-
-# 3. contribution graph
-GH_PROFILE_USER=YOUR_USERNAME python scripts/fetch_contributions.py
-python scripts/render_heatmap_svg.py          # -> contrib-heatmap.svg
-
-# 4. README
-cp profile-README-template.md README.md       # then fill in name / tagline / links
+```text
+[ BUILD ] ── [ BREAK ] ── [ FIX ] ── [ REPEAT ]
 ```
 
-Create a **public repo named exactly your GitHub username**, drop in the three
-SVGs, `README.md`, the `scripts/` folder, `data/contributions.json`, and
-`.github/`, then push. Set **Settings → Actions → General → Workflow permissions
-→ Read and write** and run the workflow once so the graph appears immediately.
-After that it updates itself daily.
+### `Building systems. Creating solutions. Writing code.`
 
-## Tuning cheatsheet
+`© Machado // All systems operational.`
 
-| Want to…                    | Where |
-| --------------------------- | ----- |
-| Punchier / lighter face     | `CONTRAST`, `GAMMA`, `WHITE_FLOOR` in `make_ascii_svg.py`; `clipLimit` in `prep_photo.py` |
-| Type faster / slower        | `ROW_DUR`, `STAGGER` in `make_ascii_svg.py` |
-| Change experience / stack   | `ROWS` and `HOST` in `make_info_card.py` |
-| Info panel too tall         | bump `H` in `make_info_card.py`, then re-match `width=` in the README |
+</div>
