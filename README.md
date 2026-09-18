@@ -18,7 +18,7 @@
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🔹 Technologies & Tools
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Áreas de Desenvolvimento
+### 🔹 Áreas de Desenvolvimento
 
 - 🎮 **FiveM Development**
 - 🌐 **Web Development**
@@ -45,7 +45,7 @@
 
 ## 💰 Experiência & Projetos
 
-### 🎮 FiveM Development
+### 🔹 FiveM Development
 
 Ao longo do meu percurso no desenvolvimento para **FiveM**, desenvolvi
 scripts, sistemas e projetos personalizados para servidores e comunidades.
@@ -74,27 +74,16 @@ Experiência com:
 
 # 🏆 Projetos em Destaque
 
-## 🥇 Aim Cup
+## AIM CUP
 
-Projeto desenvolvido para uma comunidade/projeto competitivo,
-com foco em **gaming, competição e sistemas personalizados**.
-
-### Tecnologias
-
-`Lua` `JavaScript` `HTML` `CSS` `MySQL`
-
----
-
-## 🥇 Aim Cup #2
-
-Segundo projeto relacionado com o ecossistema **Aim Cup**, com desenvolvimento
-de sistemas e funcionalidades personalizadas.
+Maior servidor de campeonatos da Europa do FiveM**.
 
 ### Tecnologias
 
 `Lua` `JavaScript` `HTML` `CSS` `MySQL`
 
 ---
+
 
 # 🌐 Web Development
 
@@ -144,7 +133,7 @@ sistemas web e aplicações com frontend e backend.
 Desenvolvimento de **Discord Bots** utilizando principalmente Python e
 JavaScript.
 
-### 🐍 Python
+### 🔹 Python
 
 - discord.py
 - APIs
@@ -156,7 +145,7 @@ JavaScript.
 - Webhooks
 - Slash Commands
 
-### 🟨 JavaScript
+### 🔹 JavaScript
 
 - Discord.js
 - Node.js
@@ -167,46 +156,3 @@ JavaScript.
 - Custom Commands
 - Database Integration
 - Webhooks
-
-# 🎮 FiveM Stack
-
-<div align="center">
-
-| Technology | Experience |
-|------------|------------|
-| Lua | ⭐⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐ |
-| HTML | ⭐⭐⭐⭐ |
-| CSS | ⭐⭐⭐⭐ |
-| MySQL | ⭐⭐⭐⭐ |
-| NUI | ⭐⭐⭐⭐ |
-| Node.js | ⭐⭐⭐⭐ |
-| APIs | ⭐⭐⭐⭐ |
-
-</div>
-
----
-
-# 🌐 Web Development Stack
-
-```text
-Frontend
-├── HTML5
-├── CSS3
-├── JavaScript
-├── TypeScript
-├── React
-├── Bootstrap
-└── Tailwind CSS
-
-Backend
-├── PHP
-├── Node.js
-├── Python
-└── REST APIs
-
-Database
-├── MySQL
-├── PostgreSQL
-├── SQLite
-└── MongoDB
