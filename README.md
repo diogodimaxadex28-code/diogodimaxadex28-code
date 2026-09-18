@@ -1,33 +1,69 @@
 <div align="center">
 
-# 👋 Olá, eu sou Diogo Machado!
+# Machado
 
-### 💻 Developer | FiveM Developer | Web Developer | Discord Bot Developer
+### 💻 Developer Full Stack
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Machadodiogodimaxadex28-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
 
-<p>
-  <a href="https://github.com/Machadodiogodimaxadex28-code">
-    <img src="https://img.shields.io/github/followers/Machadodiogodimaxadex28-code?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Machadodiogodimaxadex28-code?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+---
+
+# 💻 Linguagens de Programação
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,lua,js,ts,html,css,php" />
+
+</div>
+
+### 🔹 C++
+
+Desenvolvimento de software e programação de sistemas utilizando C++.
+
+### 🔹 C
+
+Programação de baixo nível e desenvolvimento de aplicações.
+
+### 🔹 Python
+
+Automação, bots, APIs, scripts e desenvolvimento de aplicações.
+
+### 🔹 Lua
+
+Principalmente utilizado em **FiveM Development** e scripting.
+
+### 🔹 JavaScript
+
+Desenvolvimento web, Node.js, Discord Bots e sistemas interativos.
+
+### 🔹 TypeScript
+
+Desenvolvimento de aplicações JavaScript com tipagem estática.
+
+### 🔹 HTML
+
+Estruturação de websites e interfaces NUI.
+
+### 🔹 CSS
+
+Estilização, layouts, animações e interfaces responsivas.
+
+### 🔹 PHP
+
+Desenvolvimento backend e aplicações web.
+
+---
+
+# 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,tailwind,bootstrap,mysql,postgres,mongodb,linux,docker" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
-
-Sou um **Developer** focado no desenvolvimento de software, aplicações web,
-bots e sistemas para comunidades e servidores.
-
-Tenho experiência prática em diferentes áreas do desenvolvimento, desde
-programação de sistemas e scripts até desenvolvimento web e automação.
+---
 
 ### 🚀 Áreas de Desenvolvimento
 
@@ -166,64 +202,6 @@ JavaScript.
 - Custom Commands
 - Database Integration
 - Webhooks
-
----
-
-# 💻 Linguagens de Programação
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,lua,js,ts,html,css,php" />
-
-</div>
-
-### 🔹 C++
-
-Desenvolvimento de software e programação de sistemas utilizando C++.
-
-### 🔹 C
-
-Programação de baixo nível e desenvolvimento de aplicações.
-
-### 🔹 Python
-
-Automação, bots, APIs, scripts e desenvolvimento de aplicações.
-
-### 🔹 Lua
-
-Principalmente utilizado em **FiveM Development** e scripting.
-
-### 🔹 JavaScript
-
-Desenvolvimento web, Node.js, Discord Bots e sistemas interativos.
-
-### 🔹 TypeScript
-
-Desenvolvimento de aplicações JavaScript com tipagem estática.
-
-### 🔹 HTML
-
-Estruturação de websites e interfaces NUI.
-
-### 🔹 CSS
-
-Estilização, layouts, animações e interfaces responsivas.
-
-### 🔹 PHP
-
-Desenvolvimento backend e aplicações web.
-
----
-
-# 🛠️ Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,tailwind,bootstrap,mysql,postgres,mongodb,linux,docker" />
-
-</div>
-
----
 
 # 🎮 FiveM Stack
 
