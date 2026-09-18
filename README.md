@@ -43,15 +43,6 @@ web applications and custom solutions.
 
 </div>
 
-```text
-VERSION CONTROL     → Git / GitHub
-EDITORS             → VS Code
-RUNTIME             → Node.js
-FRONTEND            → React / Tailwind / Bootstrap
-DATABASES           → MySQL / PostgreSQL / MongoDB
-ENVIRONMENT         → Linux / Docker
-```
-
 ---
 
 ## `03 // DEVELOPMENT DOMAINS`
@@ -240,18 +231,6 @@ JAVASCRIPT
 
 ---
 
-# `08 // GITHUB TELEMETRY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
-
-</div>
-
----
-
 # `09 // COMPLETE STACK`
 
 <div align="center">
@@ -260,26 +239,6 @@ JAVASCRIPT
 
 </div>
 
----
-
-# `10 // CONTACT`
-
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│  Got a project?                          │
-│  Have an idea?                           │
-│  Need a custom system?                   │
-│                                          │
-│  → Discord : Machado                     │
-│  → GitHub  : SEU_USERNAME                │
-│                                          │
-└──────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
 
 ```text
 [ BUILD ] ── [ BREAK ] ── [ FIX ] ── [ REPEAT ]
