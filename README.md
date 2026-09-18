@@ -2,7 +2,6 @@
 
 # Machado
 
-### 💻 Developer Full Stack
 
 
 ---
