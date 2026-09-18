@@ -172,18 +172,6 @@ JavaScript.
 
 ---
 
-# 📫 Contact
-
-Se tens um projeto, ideia ou colaboração em mente, podes entrar em contacto comigo.
-
-<div align="left">
-
-- 💬 Discord: `Machado`
-- 💻 GitHub: `SEU_USERNAME`
-
-</div>
-
----
 
 <div align="center">
 
